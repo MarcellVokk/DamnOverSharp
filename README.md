@@ -18,5 +18,6 @@
 A simple sample project can be found in the project repo, which contains samples for the usage of all 3 renderers.
 
 #### Screenshot of the example's UI
+![image](exampleApp.png)
 
 #### Screenshot of the target process with a WPF control being hosted inside it
