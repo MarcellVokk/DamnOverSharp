@@ -17,6 +17,9 @@
 
 A simple sample project can be found in the project repo, which contains samples for the usage of all 3 renderers.
 
+#### Screenshot of the target app (in this case Muck lol) rendering the WPF control
+![image](targetProcessWPFdemo.png)
+
 #### Screenshot of the example's UI
 ![image](exampleApp.png)
 
