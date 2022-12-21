@@ -61,7 +61,7 @@ namespace DamnOverSharp.WPF.UiLibrary {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/DamnOverSharp;component/wpf.uilibrary/virtualmousecapturearea.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/DamnOverSharp;V1.0.0.0;component/wpf.uilibrary/virtualmousecapturearea.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\WPF.UiLibrary\VirtualMouseCaptureArea.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
