@@ -2,6 +2,8 @@
 
 ## An easy to use library for creating in-app overlays for different games and programs.
 
+![image](targetProcessWPFdemo.png)
+
 ### Features:
 - Works in both windowed and fullscreen mode
 - DirectX 9, 10 and 11 support (DirectX 12 and Vulkan coming soon!)
