@@ -1,0 +1,5 @@
+D:\source\repos\DamnOverSharp\Example\bin\Debug\EasyHook64.dll
+D:\source\repos\DamnOverSharp\Example\bin\Debug\EasyLoad64.dll
+D:\source\repos\DamnOverSharp\Example\bin\Debug\sharpdx_direct3d11_1_effects_x64.dll
+D:\source\repos\DamnOverSharp\Example\bin\Debug\d3dcompiler_47.dll
+D:\source\repos\DamnOverSharp\Example\bin\Debug\EasyHook.dll

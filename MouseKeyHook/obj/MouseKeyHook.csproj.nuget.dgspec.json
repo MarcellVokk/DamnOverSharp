@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\source\\repos\\DamnOverSharp\\MouseKeyHook\\MouseKeyHook.csproj": {}
+  },
+  "projects": {
+    "D:\\source\\repos\\DamnOverSharp\\MouseKeyHook\\MouseKeyHook.csproj": {
+      "version": "5.6.1-alpha",
+      "restore": {
+        "projectUniqueName": "D:\\source\\repos\\DamnOverSharp\\MouseKeyHook\\MouseKeyHook.csproj",
+        "projectName": "MouseKeyHook",
+        "projectPath": "D:\\source\\repos\\DamnOverSharp\\MouseKeyHook\\MouseKeyHook.csproj",
+        "packagesPath": "C:\\Users\\Marcell\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\repos\\DamnOverSharp\\MouseKeyHook\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "D:\\Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marcell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462",
+          "net472",
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          },
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          },
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        },
+        "net462": {
+          "targetAlias": "net462",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        },
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

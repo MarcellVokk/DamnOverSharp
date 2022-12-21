@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Marcell\.nuget\packages\;D:\Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.4.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\Marcell\.nuget\packages\" />
+    <SourceRoot Include="D:\Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)cef.redist.x86\108.4.13\buildTransitive\cef.redist.x86.props" Condition="Exists('$(NuGetPackageRoot)cef.redist.x86\108.4.13\buildTransitive\cef.redist.x86.props')" />
+    <Import Project="$(NuGetPackageRoot)cef.redist.x64\108.4.13\buildTransitive\cef.redist.x64.props" Condition="Exists('$(NuGetPackageRoot)cef.redist.x64\108.4.13\buildTransitive\cef.redist.x64.props')" />
+    <Import Project="$(NuGetPackageRoot)cefsharp.common\108.4.130\buildTransitive\CefSharp.Common.props" Condition="Exists('$(NuGetPackageRoot)cefsharp.common\108.4.130\buildTransitive\CefSharp.Common.props')" />
+  </ImportGroup>
+</Project>

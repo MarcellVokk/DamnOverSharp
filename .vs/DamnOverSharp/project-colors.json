@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6fb7cad-7fba-448b-98d7-b20fa24600bf": {
+      "ProjectGuid": "f6fb7cad-7fba-448b-98d7-b20fa24600bf",
+      "DisplayName": "TestScreenshot",
+      "ColorIndex": 0
+    },
+    "23178a3d-2ac0-419a-b1b6-59ca45191270": {
+      "ProjectGuid": "23178a3d-2ac0-419a-b1b6-59ca45191270",
+      "DisplayName": "RenderHookAPI",
+      "ColorIndex": 1
+    },
+    "9f1d6694-b306-49a3-b02e-dbfddcd4a0ce": {
+      "ProjectGuid": "9f1d6694-b306-49a3-b02e-dbfddcd4a0ce",
+      "DisplayName": "WinHelper",
+      "ColorIndex": 2
+    },
+    "5cc1b02b-07b8-4f3a-b421-0f34f9925281": {
+      "ProjectGuid": "5cc1b02b-07b8-4f3a-b421-0f34f9925281",
+      "DisplayName": "Demo",
+      "ColorIndex": 3
+    },
+    "84c44074-6cf2-488f-ba21-7c2f690dfc52": {
+      "ProjectGuid": "84c44074-6cf2-488f-ba21-7c2f690dfc52",
+      "DisplayName": "Demo_FW",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7f2ddb5a-2642-4fd3-9afc-ca68ff58fef1": {
+      "ProjectGuid": "7f2ddb5a-2642-4fd3-9afc-ca68ff58fef1",
+      "DisplayName": "Demo_WPF",
+      "ColorIndex": 5
+    },
+    "cd079608-5fbb-4b18-b85f-a159c367fc2c": {
+      "ProjectGuid": "cd079608-5fbb-4b18-b85f-a159c367fc2c",
+      "DisplayName": "DamnOverSharp",
+      "ColorIndex": 6
+    },
+    "4ee6fc63-5260-4abe-a40b-36a5cdc7c734": {
+      "ProjectGuid": "4ee6fc63-5260-4abe-a40b-36a5cdc7c734",
+      "DisplayName": "DamnOverSharp",
+      "ColorIndex": 7
+    },
+    "a2f9a236-d2ad-47ec-bf71-27209faaf544": {
+      "ProjectGuid": "a2f9a236-d2ad-47ec-bf71-27209faaf544",
+      "DisplayName": "SimpleDemo",
+      "ColorIndex": 8
+    },
+    "ae7779e7-ae31-4922-8095-c2aec3bef841": {
+      "ProjectGuid": "ae7779e7-ae31-4922-8095-c2aec3bef841",
+      "DisplayName": "Example",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

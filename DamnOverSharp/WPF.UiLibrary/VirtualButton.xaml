@@ -1,0 +1,11 @@
+﻿<local:VirtualControlBase x:Class="DamnOverSharp.WPF.UiLibrary.VirtualButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DamnOverSharp.WPF.UiLibrary"
+             mc:Ignorable="d">
+    <Border x:Name="border" Background="#FFDDDDDD" BorderBrush="#FF707070" BorderThickness="1">
+        <TextBlock x:Name="text" Text="hello cold world" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="5"/>
+    </Border>
+</local:VirtualControlBase>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YkWUXxdSMa6ifeFPTEQjuPVNcNtfD3o9eTdjQ6pUeVRTyodJYxiM93N+KvnKM4g9emZjOXSn39yGeA8Oj+XN3Q==",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\DamnOverSharp\\DamnOverSharp\\DamnOverSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcell\\.nuget\\packages\\cef.redist.x64\\108.4.13\\cef.redist.x64.108.4.13.nupkg.sha512",
+    "C:\\Users\\Marcell\\.nuget\\packages\\cef.redist.x86\\108.4.13\\cef.redist.x86.108.4.13.nupkg.sha512",
+    "C:\\Users\\Marcell\\.nuget\\packages\\cefsharp.common\\108.4.130\\cefsharp.common.108.4.130.nupkg.sha512",
+    "C:\\Users\\Marcell\\.nuget\\packages\\cefsharp.offscreen\\108.4.130\\cefsharp.offscreen.108.4.130.nupkg.sha512"
+  ],
+  "logs": []
+}

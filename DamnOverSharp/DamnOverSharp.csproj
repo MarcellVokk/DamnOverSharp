@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CefSharp.OffScreen" Version="108.4.130" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MouseKeyHook\MouseKeyHook.csproj" />
+    <ProjectReference Include="..\RenderHookAPI\RenderHookAPI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Drawing.Common">
+      <HintPath>System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="WPF.UiLibrary\VirtualMouseCaptureArea.xaml">
+      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WPF.UiLibrary\VirtualButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+
+</Project>
