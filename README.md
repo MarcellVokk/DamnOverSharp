@@ -20,4 +20,5 @@ A simple sample project can be found in the project repo, which contains samples
 #### Screenshot of the example's UI
 ![image](exampleApp.png)
 
-#### Screenshot of the target process with a WPF control being hosted inside it
+#### The control being hosted in game in the WPF designer
+![image](designerWPFdemo.png)
