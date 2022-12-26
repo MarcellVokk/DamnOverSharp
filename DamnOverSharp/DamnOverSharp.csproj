@@ -9,6 +9,7 @@
     <PackageProjectUrl>https://github.com/Vadkarika2/DamnOverSharp</PackageProjectUrl>
     <Description>An easy to use library for creating in-app overlays for different games and programs.</Description>
     <PackageTags>overlay,directx,game,overlay,hook,graphics,wpf,.net,.net framework</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

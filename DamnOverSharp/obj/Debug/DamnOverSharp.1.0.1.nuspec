@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>DamnOverSharp</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Gazdag Marcell</authors>
     <projectUrl>https://github.com/Vadkarika2/DamnOverSharp</projectUrl>
     <description>An easy to use library for creating in-app overlays for different games and programs.</description>

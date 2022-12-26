@@ -859,7 +859,7 @@
     "D:\\Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "D:\\source\\repos\\DamnOverSharp\\DamnOverSharp\\DamnOverSharp.csproj",
       "projectName": "DamnOverSharp",
