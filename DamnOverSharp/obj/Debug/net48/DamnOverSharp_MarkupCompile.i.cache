@@ -16,5 +16,5 @@ TRACE;DEBUG;NETFRAMEWORK;NET48;
 26-1873159189
 WPF.UiLibrary\VirtualButton.xaml;WPF.UiLibrary\VirtualMouseCaptureArea.xaml;WPF.UiLibrary\VirtualTextBox.xaml;
 
-True
+False
 

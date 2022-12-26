@@ -1,0 +1,9 @@
+D:\source\repos\DamnOverSharp\MouseKeyHook\bin\Debug\net462\Gma.System.MouseKeyHook.dll
+D:\source\repos\DamnOverSharp\MouseKeyHook\bin\Debug\net462\Gma.System.MouseKeyHook.pdb
+D:\source\repos\DamnOverSharp\MouseKeyHook\obj\Debug\net462\MouseKeyHook.csproj.AssemblyReference.cache
+D:\source\repos\DamnOverSharp\MouseKeyHook\obj\Debug\net462\MouseKeyHook.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DamnOverSharp\MouseKeyHook\obj\Debug\net462\MouseKeyHook.AssemblyInfoInputs.cache
+D:\source\repos\DamnOverSharp\MouseKeyHook\obj\Debug\net462\MouseKeyHook.AssemblyInfo.cs
+D:\source\repos\DamnOverSharp\MouseKeyHook\obj\Debug\net462\MouseKeyHook.csproj.CoreCompileInputs.cache
+D:\source\repos\DamnOverSharp\MouseKeyHook\obj\Debug\net462\Gma.System.MouseKeyHook.dll
+D:\source\repos\DamnOverSharp\MouseKeyHook\obj\Debug\net462\Gma.System.MouseKeyHook.pdb

@@ -4,6 +4,11 @@
     <TargetFramework>net48</TargetFramework>
     <UseWPF>true</UseWPF>
     <PlatformTarget>x64</PlatformTarget>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Gazdag Marcell</Authors>
+    <PackageProjectUrl>https://github.com/Vadkarika2/DamnOverSharp</PackageProjectUrl>
+    <Description>An easy to use library for creating in-app overlays for different games and programs.</Description>
+    <PackageTags>overlay,directx,game,overlay,hook,graphics,wpf,.net,.net framework</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
